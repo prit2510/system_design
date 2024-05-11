@@ -1,12 +1,3 @@
-console.log(`we love system disgn`)
-const util=require("./util") //import modules in node for js files
-//&get a data form server 
-//^post store data using post  (create)
-//?patch (update)
-//!put use add statick file 
-//*delete
-
-//^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^/
 const ex=require("express") //import modules in node for js files
 const app=ex()
 const port=3000
